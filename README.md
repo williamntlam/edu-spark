@@ -94,6 +94,6 @@ docker-compose up
 ## Current Status
 **NOT STARTED**
 - The implementation is still in the planning phase. Development is yet to begin.
-- 
+  
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
